@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithagiv" alt="sithagiv" /></a> </p>
 
-- 🌱 I’m currently learning **Android, MERN Stack**
+- 🌱 I’m currently learning **Java, Phython**
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **sithagikumara@gmail.com**
 
